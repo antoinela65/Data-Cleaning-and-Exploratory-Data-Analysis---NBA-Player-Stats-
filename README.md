@@ -2,6 +2,8 @@
 
 Project Overview: This project provides an in-depth analysis of NBA player statistics, focusing on various aspects such as scoring efficiency, defensive performance, and the impact of experience on player metrics. The analysis was conducted using Python, primarily leveraging libraries like Pandas, Seaborn, and Matplotlib.
 
+The first part of the project showcases the data cleaning process. The second part details the exploratory data analysis made on the dataset.
+
 Data : nba_data_players.csv found on Kaggle
 
 **Features :**  
