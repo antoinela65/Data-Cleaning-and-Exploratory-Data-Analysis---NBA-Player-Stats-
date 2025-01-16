@@ -6,7 +6,7 @@ The first part of the project showcases the data cleaning process. The second pa
 
 Data : nba_data_players.csv found on Kaggle
 
-You can find the Python file detailing all the code under the NBA Players_EDA + Data Cleaning.ipynb name.
+You can access the Python file containing the complete code under the name NBA Players_EDA + Data Cleaning.ipynb.
  
 
 **Features :**  
