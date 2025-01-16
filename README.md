@@ -6,6 +6,8 @@ The first part of the project showcases the data cleaning process. The second pa
 
 Data : nba_data_players.csv found on Kaggle
 
+View the Python code here : 
+
 **Features :**  
 
 - Position-Based Analysis: Compared performance metrics such as PTS, AST, and TRB across different positions, identifying trends and insights based on player roles.
